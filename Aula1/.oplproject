@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>Projeto Introdu&amp;#231;&amp;#227;o ao CPLEX</description>
+	<configs>
+		<config default="true" name="Aula 1" category="opl">
+			<ref name="Aula 1 - Exemplo 1.mod" type="model">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
