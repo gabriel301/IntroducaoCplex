@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>Aula 2 - Programa&amp;#231;&amp;#227;o Linear</description>
+	<configs>
+		<config default="true" name="LP" category="opl">
+			<ref name="Aula 2 - LP.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="Aula 2 - IP" category="opl">
+			<ref name="Aula 2 - IP.mod" type="model">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
